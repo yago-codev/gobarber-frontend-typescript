@@ -1,0 +1,4 @@
+# ignorar arquivos js
+**/*.js
+node_modules
+build
